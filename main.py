@@ -1,6 +1,8 @@
 import random
 from .messages import display_messages
 
+print('fazendo algo')
+
 while True:
     resposta = input('Deseja receber um conselho? S/N: ')
     if (resposta == 'S' or resposta == 's'):
