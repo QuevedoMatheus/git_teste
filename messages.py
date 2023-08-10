@@ -1,7 +1,8 @@
 display_messages = [
     'Seja Feliz ;)',
     'Fique Tranquilo',
-    'colando uma mensagem bem aqui no meio',
-    'acredite nos seus caminhos'
+    'acredite nos seus caminhos',
+    'nunca faça delete sem where',
+    'sempre apague as luzes'
 
 ]
